@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la  ((user_id=$(id -u), group_id=$(id -g))) | bc
+ls -l --numeric-uid-gid
