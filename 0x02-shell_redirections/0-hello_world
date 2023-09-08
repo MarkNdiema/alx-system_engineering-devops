@@ -1,3 +1,2 @@
-[main a3c3df2] Hello World
- 1 file changed, 2 insertions(+)
- create mode 100755 0x02-shell_redirections/0-hello_world
+#!/bin/bash
+echo "Hello, World" >>Hello World
